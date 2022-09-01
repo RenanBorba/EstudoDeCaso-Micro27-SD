@@ -8,6 +8,6 @@
 <ul>
   <li>Definição da ideia para o software</li>
   <li>Melhoria Introduzida pela sua ideia</li>
-  <li>Processo usando BPMN (ponto extra)</li>
+  <li>Processo usando BPMN</li>
   <li>Histórias de Usuário (User Story)</li>
 </li>
