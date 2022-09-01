@@ -7,7 +7,7 @@
 #### Proposta de software integrado à Rede Nacional de Dados em Saúde (RNDS)
 <ul>
   <li>Definição da ideia para o software</li>
-  <li>Melhoria Introduzida pela sua ideia</li>
+  <li>Melhoria introduzida pela sua ideia</li>
   <li>Processo usando BPMN</li>
   <li>Histórias de Usuário (User Story)</li>
 </li>
