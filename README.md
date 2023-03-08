@@ -1,4 +1,4 @@
-# Pós-Graduação Lato Sensu em Saúde Digital - UFG
+# Pós-Graduação Lato Sensu em Saúde Digital
 ## Micro 27: Engenharia de software na saúde digital
 ### O que eu devo saber para o desenvolvimento de software na saúde?
 <br>
