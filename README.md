@@ -11,3 +11,8 @@
   <li>Processo usando BPMN</li>
   <li>Histórias de Usuário (User Story)</li>
 </li>
+<br>
+  
+![vid](https://github.com/RenanBorba/EstudoDeCaso-Micro27-SD/assets/48495838/04956216-71c7-47c2-8bad-eb903ef166a5) <br>
+https://www.youtube.com/watch?v=aDcyHQ61oIk <br>
+https://www.youtube.com/watch?v=dI8OoKhjvxA
